@@ -600,6 +600,13 @@
       },
       "name": "In-App Menu"
     },
+    "js-loader": {
+      "description": "Injects custom JavaScript and CSS files from the plugins/js-loader folder",
+      "name": "JS Loader",
+      "menu": {
+        "open-folder": "Open plugins folder"
+      }
+    },
     "lumiastream": {
       "description": "Adds Lumia Stream support",
       "name": "Lumia Stream [Beta]"
